@@ -7,6 +7,7 @@
     "content-hash": "7a24dd0b3469534ecde57a13972a2677",
     "packages": [
         {
+            
             "name": "alchemy/zippy",
             "version": "0.4.3",
             "source": {
